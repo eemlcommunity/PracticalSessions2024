@@ -20,4 +20,8 @@ Tutorial: [![Open In
 Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eemlcommunity/PracticalSessions2024/blob/main/2_reinforcement_learning/RL_tutorial.ipynb)
 
 
+Solution: [![Open In 
+Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eemlcommunity/PracticalSessions2024/blob/main/2_reinforcement_learning/RL_tutorial_solved.ipynb)
+
+
 ---
