@@ -22,4 +22,8 @@ Tutorial: [![Open In
 Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eemlcommunity/PracticalSessions2024/blob/main/1_reasoning/Reasoning_tutorial.ipynb)
 
 
+Solved: [![Open In 
+Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eemlcommunity/PracticalSessions2024/blob/main/1_reasoning/Reasoning_tutorial_solved.ipynb)
+
+
 ---
