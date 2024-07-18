@@ -15,4 +15,7 @@ In this tutorial we'll explore how we can use image-text data to build Vision La
 Tutorial: [![Open In 
 Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eemlcommunity/PracticalSessions2024/blob/main/3_vision_language_models/VLM_tutorial.ipynb)
 
+Solution: [![Open In 
+Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eemlcommunity/PracticalSessions2024/blob/main/3_vision_language_models/VLM_tutorial_solution.ipynb)
+
 ---
