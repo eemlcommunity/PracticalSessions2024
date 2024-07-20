@@ -24,4 +24,8 @@ In this tutorial you will:
 Tutorial: [![Open In 
 Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eemlcommunity/PracticalSessions2024/blob/main/4_geometric_deep_learning/GDL_tutorial.ipynb)
 
+
+Solution: [![Open In 
+Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eemlcommunity/PracticalSessions2024/blob/main/4_geometric_deep_learning/GDL_tutorial_solution.ipynb)
+
 ---
