@@ -4,12 +4,13 @@
 
 --- 
 
-### Outline
-
 This tutorial is meant to be a stand-alone introduction into the Graph Neural Network world. You will learn about the basics of working with graph data, implementing a standard Graph Network architecture and understand more about current challenges and open research problems in the field such as rewiring and positional encoding.
 
-In this tutorial you will:
 
+[Introduction video](https://www.youtube.com/watch?v=ZvpxLfDz_mk)
+
+
+### Outline
 
 1. Implement both a sparse and a dense version of **Graph Convolutional Network in Pytorch**.
 2. Write a training pipeline for graph inputs including **graph-level representation** and **custom mini-batching**.
@@ -18,6 +19,7 @@ In this tutorial you will:
 5. Re-implement **Graph Attention Network in Pytorch Geometric**.
 6. Understand the **over-squashing challenge** and experiment with **two graph rewiring techniques**: Graph Transformer and Expander Graph Propagation.
 7. Explore various **positional encodings** for graph data.
+
 
 ### Notebooks
 

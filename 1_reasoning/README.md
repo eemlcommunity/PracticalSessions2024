@@ -7,6 +7,9 @@
 In this tutorial, we will explore the wonderful and challenging domain of algorithmic reasoning 🔢 with deep neural networks 🤖.
 
 
+[Introduction video](https://www.youtube.com/watch?v=CyIuM5eQZ5A)
+
+
 ### Outline
 
 - What even _is_ reasoning?
@@ -24,6 +27,5 @@ Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.
 
 Solved: [![Open In 
 Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eemlcommunity/PracticalSessions2024/blob/main/1_reasoning/Reasoning_tutorial_solution.ipynb)
-
 
 ---

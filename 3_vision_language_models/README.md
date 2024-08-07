@@ -3,12 +3,19 @@
 **Authors:** Aishwarya Kamath, Anastasia Ilić and Ioana Bica
 
 --- 
+
 In this tutorial we'll explore how we can use image-text data to build Vision Language Models 🚀. We'll start with an introduction to multimodal understanding that describes the main components of a Vision Lanugage Model and provides a brief history of how these have evolved in recent years. Then, we'll dive deep into Contrastive Language-Image Pre-training (CLIP), a model for learning general representation from image-text pairs that can be used for a wide range of downstream tasks. We'll then explore how CLIP can be used for semantic image search followed by a showcase of its failure cases. Finally, we'll finetune together PaliGemma, a powerful 3B vision language model.
 
+
+[Introduction video](https://www.youtube.com/watch?v=zdejKiH06CU)
+
+
 ### Outline
+
 - Part I: Introduction to multimodal understanding.
 - Part II: Contrastive Language-Image Pre-training (CLIP).
 - Part III: PaliGemma.
+
 
 ### Notebooks
 
